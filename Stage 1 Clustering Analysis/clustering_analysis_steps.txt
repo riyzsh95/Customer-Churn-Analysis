@@ -1,0 +1,10 @@
+
+Clustering Analysis Execution Steps
+
+1. Load the preprocessed dataset:
+2. Extract relevant features for clustering:
+3. Determine the optimal number of clusters using the elbow method:
+4. Train the K-Means model with the optimal number of clusters 
+5. Visualize the clusters:
+6. Save the dataset with cluster labels:
+   
