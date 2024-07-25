@@ -1,10 +1,6 @@
-# Feature Engineering
+
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
-
-# ============================================================
-# Stage 2: Feature Engineering and Scaling
-# ============================================================
 
 # Load the Preprocessed Dataset from Stage 1
 file_path_stage2 = 'preprocessed_dataset.csv'
